@@ -20,5 +20,4 @@ HTML ,Css,JavaScript, ReactJs ,Chakra-UI
 - Well Designed and Functional
 - user Authentication
 - payment page
-- Performance and Speed
 
