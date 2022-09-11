@@ -1,5 +1,5 @@
 
-# Clone of himalaya.com
+# Clone of Zee5.com
 ZEE5 is an Indian subscription video on-demand and over-the-top streaming service, where different shows, web series and movies run under Zee Entertainment Enterprises.
 
 Here you can have a Look on our source Code Zee5 :
